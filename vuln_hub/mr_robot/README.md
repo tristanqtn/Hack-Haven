@@ -175,7 +175,7 @@ Upgrade-Insecure-Requests: 1
 log=test&pwd=test&wp-submit=Log+In&redirect_to=http%3A%2F%2F10.10.158.151%2Fwp-admin%2F&testcookie=1
 ```
 
-Bingo, log and password are not encrypted by the webpage. Knowing the topology of the request will help us brute force it. Hydra is the go to tool when we know the shape of the request. But we need a dic for this brute force, in the robots.txt file there's a reference to a file named fsocity.dic. Lets wget it and use it for hydra.
+Bingo, knowing the topology of the request will help us brute force it. Hydra is the go to tool when we know the shape of the request. But we need a dictionary for this brute force, in the robots.txt file there's a reference to a file named fsocity.dic. Lets wget it and use it for hydra.
 
 ```bash
 ┌──(kali㉿2a02-8440-6441-a02f-0a00-27ff-fe62-0f00)-[~]
