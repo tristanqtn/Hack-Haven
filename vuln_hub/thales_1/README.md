@@ -2,6 +2,10 @@
 
 Reference: [Thales](https://www.vulnhub.com/entry/thales-1,749/)
 
+Level: Easy
+
+---
+
 # Mapping
 
 Searching for the target device:

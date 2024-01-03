@@ -2,6 +2,12 @@
 
 Reference: [Earth](https://www.vulnhub.com/entry/the-planets-earth,755/)
 
+Level: Medium
+
+---
+
+Recognition:
+
 ```bash
 ┌──(kali㉿2a02-8440-6441-a02f-0a00-27ff-fe62-0f00)-[~]
 └─$ nmap 172.20.10.0/24

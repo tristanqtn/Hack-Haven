@@ -2,6 +2,12 @@
 
 Reference: [MR Robot CTF](https://www.vulnhub.com/entry/mr-robot-1,151/)
 
+Level: Medium
+
+---
+
+Recognition:
+
 ```bash
 ┌──(kali㉿2a02-8440-6441-a02f-0a00-27ff-fe62-0f00)-[~]
 └─$ nmap -A 10.10.158.151
@@ -337,7 +343,7 @@ There's a problem with Metasploit, can't debug it lets find another way of doing
 
 Ok I must admin a search for little hint online for this step.
 
-We will be using a php reverse shell, we just have to change the content of one of the files in Appearance > Editor with [this php reverse shell](https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php) open a netcal listner and then go to the url.
+We will be using a php reverse shell, we just have to change the content of one of the files in Appearance > Editor with [this php reverse shell](../../scripts/reverse.php) open a netcal listner and then go to the url.
 
 I modified content.php so the activation url is http://192.168.1.71/wp-content/themes/twentyfifteen/content.php
 
