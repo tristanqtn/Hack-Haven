@@ -36,6 +36,10 @@ The 'utils' folder houses scripts, dictionaries, and various tools to support yo
 
 Explore the contents of this repository freely and leverage the information for educational purposes. Contributions are highly encouraged! If you have insights, improvements, or additional content, fork the repository, make your changes, and submit a pull request.
 
+### Questions and Discussions
+
+If you find yourself unclear about a hacking procedure, disagree with a solution, or have any questions related to the content in this repository, feel free to open an issue. Your questions and discussions are valuable, and by posting an issue, you contribute to a collaborative learning environment. Let's build a community where everyone can learn, share knowledge, and refine their cybersecurity skills together. Your input is important, and I appreciate your active participation in making HackHaven a resourceful space for all.
+
 ### Copyrights
 
 This repository is licensed under the [MIT License](LICENSE). You are granted the freedom to use the contents subject to the terms and conditions specified in the license.
