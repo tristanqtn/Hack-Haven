@@ -1,8 +1,8 @@
-# Contributing to Vuln Center
+# Contributing to Hack Haven
 
 ## Contribution Guidelines
 
-Welcome to Vuln Center! We appreciate your interest in contributing to this repository. Here are some guidelines to ensure a smooth and collaborative experience:
+Welcome to Hack Haven! We appreciate your interest in contributing to this repository. Here are some guidelines to ensure a smooth and collaborative experience:
 
 ### Contribution is Welcome
 
@@ -27,6 +27,6 @@ Contributions from the community are highly encouraged. Whether it's fixing a bu
 
 ## Thank You for Contributing!
 
-Your contributions make Vuln Center a richer and more valuable resource for the cybersecurity community. We appreciate your commitment to maintaining a positive and educational environment within this repository.
+Your contributions make Hack Haven a richer and more valuable resource for the cybersecurity community. We appreciate your commitment to maintaining a positive and educational environment within this repository.
 
 Happy contributing!

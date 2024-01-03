@@ -1,6 +1,6 @@
-# Vuln Center
+# Hack Haven
 
-Welcome to Vuln Center! This repository serves as a hub for cybersecurity enthusiasts and aspiring pentesters. As a passionate pentester, I thrive on challenges and am dedicated to providing valuable resources for both beginners and seasoned professionals in the field. Whether you're looking for pentesting results, educational notes, or helpful tools, you've come to the right place.
+Welcome to Hack Haven! This repository serves as a hub for cybersecurity enthusiasts and aspiring pentesters. As a passionate pentester, I thrive on challenges and am dedicated to providing valuable resources for both beginners and seasoned professionals in the field. Whether you're looking for pentesting results, educational notes, or helpful tools, you've come to the right place.
 
 ## Disclaimer
 
