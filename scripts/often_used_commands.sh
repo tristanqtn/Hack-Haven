@@ -4,3 +4,5 @@ python3 -c 'import pty;pty.spawn("/bin/bash")'
 execute -f /bin/bash -i -a "-i"
 # list files with root permissions
 find / -perm -u=s -type f 2>/dev/null
+# search for a file
+find ./ -type f -name "file.txt"
