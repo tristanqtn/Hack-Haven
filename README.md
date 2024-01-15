@@ -23,11 +23,15 @@ Each platform folder contains dedicated subfolders for Capture The Flag (CTF) ch
 
 ### Helpers
 
-Visit the 'helpers' folder to find a wealth of information, including notes on hacking tools, practical tips, and tricks to elevate your pentesting skills.
+Visit the 'helpers' [folder](./helpers/) to find a wealth of information, including notes on hacking tools, practical tips, and tricks to elevate your pentesting skills.
 
 ### Utils
 
-The 'utils' folder houses scripts, dictionaries, and various tools to support your cybersecurity endeavors. These resources are designed to enhance efficiency and effectiveness during pentesting activities.
+The 'scripts' [folder](./scripts/) houses scripts, dictionaries, and various tools to support your cybersecurity endeavors. These resources are designed to enhance efficiency and effectiveness during pentesting activities.
+
+### Tools
+
+The 'tools' [folder](./tools/) contains some handmade tools that could be usefull in our hacking journey or have a general interest for cybersecurity.
 
 ## Usage and Copyrights
 
