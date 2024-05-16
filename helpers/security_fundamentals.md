@@ -1,4 +1,4 @@
-# Information Security Part 3 - Detailed Course Summary
+# Security Fundamentals
 
 # Cryptography: An Evolving Art
 

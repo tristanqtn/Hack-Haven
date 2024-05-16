@@ -14,12 +14,7 @@ While this repository is intended to foster learning and knowledge sharing, it i
 
 ### Pentesting Platforms
 
-Dive into detailed reports and findings from different pentesting platforms:
-
-- [VulnHub](./vuln_hub/)
-- [Try Hack Me](./try_hack_me/)
-
-Each platform folder contains dedicated subfolders for Capture The Flag (CTF) challenges, offering a hands-on approach to learning.
+Dive into detailed reports and findings from different pentesting platforms [here](./challs/).Each platform folder contains dedicated subfolders for Capture The Flag (CTF) challenges, offering a hands-on approach to learning.
 
 ### Helpers
 
