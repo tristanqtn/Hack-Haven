@@ -1,5 +1,11 @@
 # Tools
 
+## Request Catcher
+
+This tool lighter than Burp allows you to bring a live URL up and you can send some requests to it. The webpage of request catcher will then displays those requests. It's very handy when it comes to forwarding a flag to a public server. 
+
+[Request Catcher](https://requestcatcher.com/)
+
 ## NMAP
 
 Nmap (Network Mapper) is a powerful open-source network scanning tool used for network discovery and security auditing. It's widely used by penetration testers and network administrators to map out networks, find open ports, and discover vulnerabilities. Below are some of the most commonly used flags and their typical usage:
