@@ -1,11 +1,16 @@
-```
-  _  _                     _               _  _
- | || |   __ _     __     | |__     o O O | || |   __ _    __ __    ___    _ _
- | __ |  / _` |   / _|    | / /    o      | __ |  / _` |   \ V /   / -_)  | ' \
- |_||_|  \__,_|   \__|_   |_\_\   TS__[O] |_||_|  \__,_|   _\_/_   \___|  |_||_|
-_|"""""|_|"""""|_|"""""|_|"""""| {======|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
-"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'./o--000'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'
+# Hack Haven
 
+```
+ ██░ ██  ▄▄▄       ▄████▄   ██ ▄█▀    ██░ ██  ▄▄▄    ██▒   █▓▓█████  ███▄    █
+▓██░ ██▒▒████▄    ▒██▀ ▀█   ██▄█▒    ▓██░ ██▒▒████▄ ▓██░   █▒▓█   ▀  ██ ▀█   █
+▒██▀▀██░▒██  ▀█▄  ▒▓█    ▄ ▓███▄░    ▒██▀▀██░▒██  ▀█▄▓██  █▒░▒███   ▓██  ▀█ ██▒
+░▓█ ░██ ░██▄▄▄▄██ ▒▓▓▄ ▄██▒▓██ █▄    ░▓█ ░██ ░██▄▄▄▄██▒██ █░░▒▓█  ▄ ▓██▒  ▐▌██▒
+░▓█▒░██▓ ▓█   ▓██▒▒ ▓███▀ ░▒██▒ █▄   ░▓█▒░██▓ ▓█   ▓██▒▒▀█░  ░▒████▒▒██░   ▓██░
+ ▒ ░░▒░▒ ▒▒   ▓▒█░░ ░▒ ▒  ░▒ ▒▒ ▓▒    ▒ ░░▒░▒ ▒▒   ▓▒█░░ ▐░  ░░ ▒░ ░░ ▒░   ▒ ▒
+ ▒ ░▒░ ░  ▒   ▒▒ ░  ░  ▒   ░ ░▒ ▒░    ▒ ░▒░ ░  ▒   ▒▒ ░░ ░░   ░ ░  ░░ ░░   ░ ▒░
+ ░  ░░ ░  ░   ▒   ░        ░ ░░ ░     ░  ░░ ░  ░   ▒     ░░     ░      ░   ░ ░
+ ░  ░  ░      ░  ░░ ░      ░  ░       ░  ░  ░      ░  ░   ░     ░  ░         ░
+                  ░                                      ░
 ```
 
 Welcome to Hack Haven! This repository serves as a hub for cybersecurity enthusiasts and aspiring pentesters. As a passionate pentester, I thrive on challenges and am dedicated to providing valuable resources for both beginners and seasoned professionals in the field. Whether you're looking for pentesting results, educational notes, or helpful tools, you've come to the right place.
