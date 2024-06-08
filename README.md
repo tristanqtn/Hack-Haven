@@ -1,4 +1,12 @@
-# Hack Haven
+```
+  _  _                     _               _  _
+ | || |   __ _     __     | |__     o O O | || |   __ _    __ __    ___    _ _
+ | __ |  / _` |   / _|    | / /    o      | __ |  / _` |   \ V /   / -_)  | ' \
+ |_||_|  \__,_|   \__|_   |_\_\   TS__[O] |_||_|  \__,_|   _\_/_   \___|  |_||_|
+_|"""""|_|"""""|_|"""""|_|"""""| {======|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
+"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'./o--000'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'
+
+```
 
 Welcome to Hack Haven! This repository serves as a hub for cybersecurity enthusiasts and aspiring pentesters. As a passionate pentester, I thrive on challenges and am dedicated to providing valuable resources for both beginners and seasoned professionals in the field. Whether you're looking for pentesting results, educational notes, or helpful tools, you've come to the right place.
 
@@ -20,7 +28,7 @@ Dive into detailed reports and findings from different pentesting platforms [her
 
 Visit the 'helpers' [folder](./helpers/) to find a wealth of information, including notes on hacking tools, practical tips, and tricks to elevate your pentesting skills.
 
-### Utils
+### SCripts
 
 The 'scripts' [folder](./scripts/) houses scripts, dictionaries, and various tools to support your cybersecurity endeavors. These resources are designed to enhance efficiency and effectiveness during pentesting activities.
 
