@@ -55,12 +55,22 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - ELF x86 - ExploitMe
 - ELF x86 - Random Crackme
 - APK - Anti-debug
+- ELF x86 - Race condition
 
 ## Crypto
 
 - Encoding ASCII
 - Encoding UU
 - Hash - Message Digest 5
+- Hash - SHA-2
+- Hash - NT
+- Hash - LM
+- Hash - DCC2
+- Hash - DCC
+
+## Forensic
+
+-  Deleted File
 
 ## Scripting
 
@@ -82,6 +92,7 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - Bluetooth - Fichier inconnu
 - CISCO - mot de passe
 - IP - Time To Live
+- DNS - Transfer Zone
 
 ## Web - Client
 
