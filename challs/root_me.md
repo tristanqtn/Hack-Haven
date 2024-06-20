@@ -4,7 +4,7 @@ This file lists all the challenges I have solved on Root Me, categorized by the 
 
 My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 
-## APP-script
+## App-script 13/32
 
 - Bash - System 1
 - sudo - faiblesse de configuration
@@ -28,15 +28,16 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - Python - input()
 - R : exécution de code
 
-## App - System
+## App - System - 6/89
 
 - ELF x86 - Stack buffer overflow basic 1
 - ELF x86 - Stack buffer overflow basic 2
 - PE32 - Stack buffer overflow basic
 - ELF x86 - Format string bug basic 1
 - ELF x64 - Stack buffer overflow - basic
+- ELF x86 - Race Condition
 
-## Cracking
+## Cracking - 17/66
 
 - ELF x86 - 0 protection
 - ELF x86 - Basique
@@ -55,35 +56,34 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - ELF x86 - ExploitMe
 - ELF x86 - Random Crackme
 - APK - Anti-debug
-- ELF x86 - Race condition
 
-## Crypto
+## Crypto - 8 / 69
 
-- Encoding ASCII
-- Encoding UU
-- Hash - Message Digest 5
-- Hash - SHA-2
-- Hash - NT
-- Hash - LM
-- Hash - DCC2
+- Encodage - ASCII
+- Encodage - UU
 - Hash - DCC
+- Hash - DCC2
+- Hash - LM
+- Hash - Message Digest 5
+- Hash - NT
+- Hash - SHA-2
 
-## Forensic
+## Forensic - 1/42
 
--  Deleted File
+- Deleted File
 
-## Scripting
+## Scripting - 4/25
 
 - TCP - Retour au collège
 - TCP - Chaîne encodée
 - TCP - La roue romaine
 - TCP - Uncompress Me
 
-## Realist
+## Realist - 1/59
 
 - Eh oui, parfois
 
-## Networking
+## Networking - 8/33
 
 - FTP - Authentification
 - TELNET - authentification
@@ -94,7 +94,7 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - IP - Time To Live
 - DNS - Transfer Zone
 
-## Web - Client
+## Web - Client - 12/41
 
 - HTML - boutons désactivés
 - Javascript - Authentification
@@ -106,8 +106,10 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - Javascript - Webpack
 - Javascript - Obfuscation 3
 - XSS - Stockée 1
+- CSP Bypass - Inline Code
+- CSRF - 0 Protection
 
-## Stegano
+## Stegano - 5/23
 
 - EXIF - Metadata
 - Steganomobile
@@ -115,7 +117,7 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - WAV - Analyse spectrale
 - PDF - Embedded
 
-## Web-Server
+## Web-Server - 31/92
 
 - HTML - Code source
 - HTTP - Contournement de filtrage IP
@@ -123,7 +125,6 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - HTTP - User-agent
 - Mot de passe faible
 - PHP - Injection de commande
-- API - Broken Access
 - Fichier de sauvegarde
 - HTTP - Directory indexing
 - HTTP - Headers
@@ -134,6 +135,10 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - CRLF
 - File upload - Double extensions
 - File upload - Type MIME
+- Flask - Unsecure session
+- GraphQL - Introspection
+- HTTP - Cookies
+- JWT - Introduction
 - Directory traversal
 - File upload - Null byte
 - JWT - Jeton révoqué
