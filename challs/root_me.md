@@ -109,15 +109,17 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - CSP Bypass - Inline Code
 - CSRF - 0 Protection
 
-## Stegano - 5/23
+## Stegano - 7/23
 
 - EXIF - Metadata
 - Steganomobile
 - WAV - Analyse de bruit
 - WAV - Analyse spectrale
 - PDF - Embedded
+- TXT - George et Alfred
+- Point à la ligne
 
-## Web-Server - 31/92
+## Web-Server - 35/92
 
 - HTML - Code source
 - HTTP - Contournement de filtrage IP
@@ -150,3 +152,7 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - SQL injection - String
 - SQL injection - Numérique
 - XPath injection - Authentification
+- XSS - Server Side
+- Insecure Code Management
+- API - Broken Access
+- API - Mass Assignment
