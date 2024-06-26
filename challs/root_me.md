@@ -94,7 +94,7 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - IP - Time To Live
 - DNS - Transfer Zone
 
-## Web - Client - 12/41
+## Web - Client - 13/41
 
 - HTML - boutons désactivés
 - Javascript - Authentification
@@ -108,6 +108,7 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - XSS - Stockée 1
 - CSP Bypass - Inline Code
 - CSRF - 0 Protection
+- XSS DOM Based - Introduction
 
 ## Stegano - 7/23
 
@@ -119,7 +120,7 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - TXT - George et Alfred
 - Point à la ligne
 
-## Web-Server - 35/92
+## Web-Server - 40/92
 
 - HTML - Code source
 - HTTP - Contournement de filtrage IP
@@ -156,3 +157,9 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - Insecure Code Management
 - API - Broken Access
 - API - Mass Assignment
+- JWT - Unsecure Key Handling
+- JWT - Header Injection
+- JWT - Clé publique
+- JWT - Unsecure File Signature
+- JWT - Secret faible
+- JWT - Unsecure Key Handling
