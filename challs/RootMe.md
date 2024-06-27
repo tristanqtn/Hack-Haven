@@ -120,7 +120,7 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - TXT - George et Alfred
 - Point à la ligne
 
-## Web-Server - 40/92
+## Web-Server - 43/92
 
 - HTML - Code source
 - HTTP - Contournement de filtrage IP
@@ -163,3 +163,6 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - JWT - Unsecure File Signature
 - JWT - Secret faible
 - JWT - Unsecure Key Handling
+- SQL injection - Contournement de filtres
+- LDAP injection - En aveugle
+- PHP - Configuration Apache
