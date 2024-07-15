@@ -4,7 +4,7 @@ This file lists all the challenges I have solved on Root Me, categorized by the 
 
 My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 
-## App-script 13/32
+## App-script 14/32
 
 - Bash - System 1
 - sudo - faiblesse de configuration
@@ -27,6 +27,7 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - LaTeX - Execution de commandes
 - Python - input()
 - R : exécution de code
+- Python - PyJail 1
 
 ## App - System - 6/89
 
@@ -57,7 +58,7 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - ELF x86 - Random Crackme
 - APK - Anti-debug
 
-## Crypto - 8 / 69
+## Crypto - 13 / 69
 
 - Encodage - ASCII
 - Encodage - UU
@@ -67,10 +68,17 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - Hash - Message Digest 5
 - Hash - NT
 - Hash - SHA-2
+- Système - Android lock pattern
+- Fichier - PKZIP
+- Décomposition pixelisée
+- Chiffrement par décalage
+- File - Insecure storage 1
 
-## Forensic - 1/42
+## Forensic - 3/42
 
 - Deleted File
+- Trouvez le chat
+- Command & Control - niveau 2 
 
 ## Scripting - 4/25
 
@@ -79,9 +87,10 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - TCP - La roue romaine
 - TCP - Uncompress Me
 
-## Realist - 1/59
+## Realist - 2/59
 
 - Eh oui, parfois
+- Root We
 
 ## Networking - 8/33
 
@@ -110,7 +119,7 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - CSRF - 0 Protection
 - XSS DOM Based - Introduction
 
-## Stegano - 7/23
+## Stegano - 9/23
 
 - EXIF - Metadata
 - Steganomobile
@@ -119,8 +128,10 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - PDF - Embedded
 - TXT - George et Alfred
 - Point à la ligne
+- Crypt-Art
+- Twitter Secret Message
 
-## Web-Server - 43/92
+## Web-Server - 50/92
 
 - HTML - Code source
 - HTTP - Contournement de filtrage IP
@@ -166,3 +177,10 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - SQL injection - Contournement de filtres
 - LDAP injection - En aveugle
 - PHP - Configuration Apache
+- SQL injection - Contournement de filtres
+- LDAP injection - En aveugle
+- Local File Inclusion - Double encoding
+- Local File Inclusion
+- LDAP injection - Authentification
+- SQL injection - Time based
+- Remote File Inclusion
