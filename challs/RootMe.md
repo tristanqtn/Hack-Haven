@@ -4,7 +4,7 @@ This file lists all the challenges I have solved on Root Me, categorized by the 
 
 My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 
-## App-script 14/32
+## App-script 15/32
 
 - Bash - System 1
 - sudo - faiblesse de configuration
@@ -27,16 +27,21 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - LaTeX - Execution de commandes
 - Python - input()
 - R : exécution de code
+- Python - Pickle
 - Python - PyJail 1
 
-## App - System - 6/89
+## App - System - 10/89
 
 - ELF x86 - Stack buffer overflow basic 1
 - ELF x86 - Stack buffer overflow basic 2
 - PE32 - Stack buffer overflow basic
 - ELF x86 - Format string bug basic 1
 - ELF x64 - Stack buffer overflow - basic
-- ELF x86 - Race Condition
+- ELF x86 - Format string bug basic 2
+- ELF x86 - Race condition
+- ELF ARM - Stack buffer overflow - basic
+- ELF x86 - Stack buffer overflow basic 3
+- ELF x86 - Stack buffer overflow basic 6
 
 ## Cracking - 17/66
 
@@ -56,6 +61,7 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - ELF x86 - CrackPass
 - ELF x86 - ExploitMe
 - ELF x86 - Random Crackme
+- GB - Basci Game Boy Crack Me
 - APK - Anti-debug
 
 ## Crypto - 13 / 69
@@ -74,11 +80,12 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - Chiffrement par décalage
 - File - Insecure storage 1
 
-## Forensic - 3/42
+## Forensic - 4/42
 
 - Deleted File
 - Trouvez le chat
-- Command & Control - niveau 2 
+- Command & Control - niveau 2
+- Ransomware Android
 
 ## Scripting - 4/25
 
@@ -103,7 +110,7 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - IP - Time To Live
 - DNS - Transfer Zone
 
-## Web - Client - 13/41
+## Web - Client - 14/41
 
 - HTML - boutons désactivés
 - Javascript - Authentification
@@ -118,6 +125,7 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - CSP Bypass - Inline Code
 - CSRF - 0 Protection
 - XSS DOM Based - Introduction
+- Javascript - Obfuscation 4
 
 ## Stegano - 9/23
 
@@ -139,6 +147,7 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - HTTP - User-agent
 - Mot de passe faible
 - PHP - Injection de commande
+- API - Broken Access
 - Fichier de sauvegarde
 - HTTP - Directory indexing
 - HTTP - Headers
@@ -146,41 +155,49 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - HTTP - Redirection invalide
 - HTTP - Verb tampering
 - Install files
+- API - Mass Assignment
 - CRLF
 - File upload - Double extensions
 - File upload - Type MIME
 - Flask - Unsecure session
 - GraphQL - Introspection
 - HTTP - Cookies
+- Insecure Code Management
 - JWT - Introduction
+- XSS - Server Side
 - Directory traversal
 - File upload - Null byte
 - JWT - Jeton révoqué
+- JWT - Secret faible
+- JWT - Unsecure File Signature
 - PHP - assert()
+- PHP - Configuration Apache
 - PHP - Filters
 - PHP - Register globals
+- JWT - Clé publique
+- JWT - Header Injection
+- Local File Inclusion
+- Local File Inclusion - Double encoding
+- Remote File Inclusion
 - SQL injection - Authentification
 - SQL injection - Authentification - GBK
 - SQL injection - String
-- SQL injection - Numérique
-- XPath injection - Authentification
-- XSS - Server Side
-- Insecure Code Management
-- API - Broken Access
-- API - Mass Assignment
 - JWT - Unsecure Key Handling
-- JWT - Header Injection
-- JWT - Clé publique
-- JWT - Unsecure File Signature
-- JWT - Secret faible
-- JWT - Unsecure Key Handling
-- SQL injection - Contournement de filtres
-- LDAP injection - En aveugle
-- PHP - Configuration Apache
-- SQL injection - Contournement de filtres
-- LDAP injection - En aveugle
-- Local File Inclusion - Double encoding
-- Local File Inclusion
 - LDAP injection - Authentification
+- SQL injection - Numérique
+- SQL Truncation
+- XPath injection - Authentification
+- SQL injection - Lecture de fichiers
+- NoSQL injection - En aveugle
 - SQL injection - Time based
-- Remote File Inclusion
+- LDAP injection - En aveugle
+- SQL injection - Contournement de filtres
+
+
+
+
+
+
+
+
+
