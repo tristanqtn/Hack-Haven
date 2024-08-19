@@ -43,7 +43,7 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - ELF x86 - Stack buffer overflow basic 3
 - ELF x86 - Stack buffer overflow basic 6
 
-## Cracking - 17/66
+## Cracking - 18/66
 
 - ELF x86 - 0 protection
 - ELF x86 - Basique
@@ -64,7 +64,7 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - GB - Basci Game Boy Crack Me
 - APK - Anti-debug
 
-## Crypto - 13 / 69
+## Crypto - 13/69
 
 - Encodage - ASCII
 - Encodage - UU
@@ -139,7 +139,7 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - Crypt-Art
 - Twitter Secret Message
 
-## Web-Server - 50/92
+## Web-Server - 51/92
 
 - HTML - Code source
 - HTTP - Contournement de filtrage IP
