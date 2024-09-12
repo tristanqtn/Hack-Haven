@@ -1,5 +1,3 @@
-# Root Me Challenges Solved
-
 This file lists all the challenges I have solved on Root Me, categorized by the type of challenge. Root Me is a platform that offers a variety of cybersecurity challenges to help users enhance their skills and knowledge in the field. The challenges cover a wide range of topics, including web security, cryptography, reverse engineering, and more. I wont share the solutions here, sorry.
 
 My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
@@ -80,12 +78,18 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - Chiffrement par décalage
 - File - Insecure storage 1
 
-## Forensic - 4/42
+## Forensic - 10/42
 
 - Deleted File
 - Trouvez le chat
 - Command & Control - niveau 2
 - Ransomware Android
+- [Analyse de logs - attaque web](https://www.root-me.org/fr/Challenges/Forensic/Analyse-de-logs-attaque-web)
+- [Docker layers](https://www.root-me.org/fr/Challenges/Forensic/Docker-layers)
+- [Open My Vault](https://www.root-me.org/fr/Challenges/Forensic/Open-My-Vault)
+- [Command & Control - niveau 5](https://www.root-me.org/fr/Challenges/Forensic/Command-Control-niveau-5)
+- [Command & Control - niveau 3](https://www.root-me.org/fr/Challenges/Forensic/Command-Control-niveau-3)
+- [Vilain petit canard](https://www.root-me.org/fr/Challenges/Forensic/Vilain-petit-canard)
 
 ## Scripting - 4/25
 
@@ -139,7 +143,7 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - Crypt-Art
 - Twitter Secret Message
 
-## Web-Server - 51/92
+## Web-Server - 52/92
 
 - HTML - Code source
 - HTTP - Contournement de filtrage IP
@@ -192,12 +196,5 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - SQL injection - Time based
 - LDAP injection - En aveugle
 - SQL injection - Contournement de filtres
-
-
-
-
-
-
-
-
-
+- File upload - ZIP
+- GraphQL - Mutation
