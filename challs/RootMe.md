@@ -2,7 +2,7 @@ This file lists all the challenges I have solved on Root Me, categorized by the 
 
 My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 
-## App-script 15/32
+## App-script 17/32
 
 - Bash - System 1
 - sudo - faiblesse de configuration
@@ -17,20 +17,15 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - LaTeX - Execution de commandes
 - Python - input()
 - R : exécution de code
-- Bash - unquoted expression injection
-- Docker - I am groot
-- Perl - Command injection
-- Powershell - SecureString
-- Bash - cron
-- LaTeX - Execution de commandes
-- Python - input()
-- R : exécution de code
 - Python - Pickle
 - Python - PyJail 1
+- Python - PyJail 2
+- Bash - Shells restreints
 
-## App - System - 10/89
+## App - System - 12/89
 
 - ELF x86 - Stack buffer overflow basic 1
+- ELF x64 - Basic heap overflow
 - ELF x86 - Stack buffer overflow basic 2
 - PE32 - Stack buffer overflow basic
 - ELF x86 - Format string bug basic 1
@@ -38,10 +33,11 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - ELF x86 - Format string bug basic 2
 - ELF x86 - Race condition
 - ELF ARM - Stack buffer overflow - basic
+- ELF x64 - Double free
 - ELF x86 - Stack buffer overflow basic 3
 - ELF x86 - Stack buffer overflow basic 6
 
-## Cracking - 18/66
+## Cracking - 19/66
 
 - ELF x86 - 0 protection
 - ELF x86 - Basique
@@ -56,13 +52,14 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - WASM - Introduction
 - ELF ARM - Basic Crackme
 - PYC - ByteCode
+- ELF ARM - crackme 1337
 - ELF x86 - CrackPass
 - ELF x86 - ExploitMe
 - ELF x86 - Random Crackme
-- GB - Basci Game Boy Crack Me
+- GB - Basic GameBoy crackme
 - APK - Anti-debug
 
-## Crypto - 13/69
+## Crypto - 21/69
 
 - Encodage - ASCII
 - Encodage - UU
@@ -72,49 +69,94 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - Hash - Message Digest 5
 - Hash - NT
 - Hash - SHA-2
-- Système - Android lock pattern
-- Fichier - PKZIP
-- Décomposition pixelisée
 - Chiffrement par décalage
+- CISCO - Salted Password
+- Décomposition pixelisée
+- ELF64 - Chiffrement avec le PID
+- Fichier - PKZIP
+- Substitution monoalphabétique - César
+- Clair connu - XOR
 - File - Insecure storage 1
+- Substitution polyalphabétique - Vigenère
+- Système - Android lock pattern
+- Transposition - Rail Fence
+- Substitution monoalphabétique - Polybe
+- Problème du logarithme discret
 
-## Forensic - 10/42
+## Forensic - 16/42
 
-- Deleted File
-- Trouvez le chat
+- Fichier supprimé
 - Command & Control - niveau 2
+- Oh My Grub
+- Docker layers
+- Analyse de logs - attaque web
+- Command & Control - niveau 5
+- Trouvez le chat
+- Vilain petit canard
+- Active Directory - GPO
+- Command & Control - niveau 3
+- Open My Vault
+- Command & Control - niveau 4
+- Entretien à l’ANSSI
+- Macro Word malveillante
 - Ransomware Android
-- [Analyse de logs - attaque web](https://www.root-me.org/fr/Challenges/Forensic/Analyse-de-logs-attaque-web)
-- [Docker layers](https://www.root-me.org/fr/Challenges/Forensic/Docker-layers)
-- [Open My Vault](https://www.root-me.org/fr/Challenges/Forensic/Open-My-Vault)
-- [Command & Control - niveau 5](https://www.root-me.org/fr/Challenges/Forensic/Command-Control-niveau-5)
-- [Command & Control - niveau 3](https://www.root-me.org/fr/Challenges/Forensic/Command-Control-niveau-3)
-- [Vilain petit canard](https://www.root-me.org/fr/Challenges/Forensic/Vilain-petit-canard)
+- Command & Control - niveau 6
 
-## Scripting - 4/25
+## Scripting - 9/25
 
 - TCP - Retour au collège
 - TCP - Chaîne encodée
 - TCP - La roue romaine
 - TCP - Uncompress Me
+- CAPTCHA me if you can
+- Suite mathématique
+- Solveur de polynômes du second degré
+- Multiples encodages
+- Quick Response Code
 
 ## Realist - 2/59
 
 - Eh oui, parfois
 - Root We
 
-## Networking - 8/33
+## Networking - 17/33
 
 - FTP - Authentification
 - TELNET - authentification
 - ETHERNET - trame
+- Kerberos - Authentification
+- NTLM - Authentification
 - Authentification twitter
 - Bluetooth - Fichier inconnu
 - CISCO - mot de passe
+- DNS - transfert de zone
 - IP - Time To Live
-- DNS - Transfer Zone
+- LDAP - null bind
+- OSPF - Authentification
+- POP - APOP
+- SIP - Authentification
+- ETHERNET - Transmission altérée
+- Trafic Global System for Mobile communications
+- SSL - échange HTTP
 
-## Web - Client - 14/41
+## Stegano - 14/23
+
+- EXIF - Metadata
+- Point à la ligne
+- Steganomobile
+- Twitter Secret Messages
+- TXT - George et Alfred
+- WAV - Analyse de bruit
+- Poem from Space
+- EXIF - Miniature
+- WAV - Analyse spectrale
+- APNG - Just A PNG
+- Crypt-art
+- PDF - Embedded
+- PNG - Pixel Indicator Technique
+- PNG - Pixel Value Differencing
+
+## Web - Client - 19/41
 
 - HTML - boutons désactivés
 - Javascript - Authentification
@@ -126,24 +168,17 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - Javascript - Webpack
 - Javascript - Obfuscation 3
 - XSS - Stockée 1
-- CSP Bypass - Inline Code
-- CSRF - 0 Protection
+- CSP Bypass - Inline code
+- CSRF - 0 protection
 - XSS DOM Based - Introduction
+- Flash - Authentification
+- XSS DOM Based - AngularJS
+- XSS DOM Based - Eval
+- CSRF - contournement de jeton
 - Javascript - Obfuscation 4
+- XSS - Stockée 2
 
-## Stegano - 9/23
-
-- EXIF - Metadata
-- Steganomobile
-- WAV - Analyse de bruit
-- WAV - Analyse spectrale
-- PDF - Embedded
-- TXT - George et Alfred
-- Point à la ligne
-- Crypt-Art
-- Twitter Secret Message
-
-## Web-Server - 52/92
+## Web-Server - 64/92
 
 - HTML - Code source
 - HTTP - Contournement de filtrage IP
@@ -178,23 +213,34 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - PHP - Configuration Apache
 - PHP - Filters
 - PHP - Register globals
+- Python - Server-side Template Injection Introduction
+- File upload - ZIP
+- Flask - Development server
+- Injection de commande - Contournement de filtre
+- Java - Server-side Template Injection
 - JWT - Clé publique
 - JWT - Header Injection
 - Local File Inclusion
 - Local File Inclusion - Double encoding
+- Node - Eval
+- PHP - Loose Comparison
+- PHP - preg_replace()
+- PHP - Type juggling
 - Remote File Inclusion
 - SQL injection - Authentification
 - SQL injection - Authentification - GBK
 - SQL injection - String
+- XSLT - Exécution de code
 - JWT - Unsecure Key Handling
 - LDAP injection - Authentification
+- NoSQL injection - Authentification
+- PHP - Path Truncation
 - SQL injection - Numérique
 - SQL Truncation
 - XPath injection - Authentification
+- GraphQL - Mutation
 - SQL injection - Lecture de fichiers
 - NoSQL injection - En aveugle
 - SQL injection - Time based
 - LDAP injection - En aveugle
 - SQL injection - Contournement de filtres
-- File upload - ZIP
-- GraphQL - Mutation
