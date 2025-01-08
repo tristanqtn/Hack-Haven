@@ -89,10 +89,13 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - Command & Control - niveau 2
 - Oh My Grub
 - Docker layers
+- Windows - LDAP User KerbeRoastable
+- Windows - NTDS Extraction de secrets
 - Analyse de logs - attaque web
 - Command & Control - niveau 5
 - Trouvez le chat
 - Vilain petit canard
+- Windows - LDAP User ASRepRoastable
 - Active Directory - GPO
 - Command & Control - niveau 3
 - Open My Vault
@@ -153,8 +156,11 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - APNG - Just A PNG
 - Crypt-art
 - PDF - Embedded
+- Kitty Spy
+- PNG - Least Significant Bit
 - PNG - Pixel Indicator Technique
 - PNG - Pixel Value Differencing
+- Base Jumper
 
 ## Web - Client - 19/41
 
