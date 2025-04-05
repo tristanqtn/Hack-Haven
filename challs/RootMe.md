@@ -2,7 +2,7 @@ This file lists all the challenges I have solved on Root Me, categorized by the 
 
 My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 
-## App-script 17/32
+## App-script 21/32
 
 - Bash - System 1
 - sudo - faiblesse de configuration
@@ -18,11 +18,15 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - Python - input()
 - R : exécution de code
 - Python - Pickle
+- Docker - Sys-Admin's Docker
+- Docker - Talk Through Me
 - Python - PyJail 1
 - Python - PyJail 2
 - Bash - Shells restreints
+- AppArmor - Jail Introduction
+- Powershell - Basic Jail
 
-## App - System - 12/89
+## App - System - 14/89
 
 - ELF x86 - Stack buffer overflow basic 1
 - ELF x64 - Basic heap overflow
@@ -36,12 +40,15 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - ELF x64 - Double free
 - ELF x86 - Stack buffer overflow basic 3
 - ELF x86 - Stack buffer overflow basic 6
+- ELF x86 - Use After Free - Basic
+- ELF x64 - Stack buffer overflow - PIE
 
-## Cracking - 19/66
+## Cracking - 28/66
 
 - ELF x86 - 0 protection
 - ELF x86 - Basique
 - PE x86 - 0 protection
+- Godot - 0 protection
 - ELF C++ - 0 protection
 - PE DotNet - 0 protection
 - APK - Introduction
@@ -49,17 +56,25 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - ELF x64 - Golang basique
 - ELF x86 - Fake Instructions
 - ELF x86 - Ptrace
+- Godot - Bytecode
 - WASM - Introduction
 - ELF ARM - Basic Crackme
 - PYC - ByteCode
+- ELF x86 - Pas de points d’arrêt logiciels
 - ELF ARM - crackme 1337
 - ELF x86 - CrackPass
 - ELF x86 - ExploitMe
 - ELF x86 - Random Crackme
 - GB - Basic GameBoy crackme
 - APK - Anti-debug
+- APK - InsomniDroid
+- ELF x86 - Anti-debug
+- PDF - Javascript
+- ELF x64 - Basic KeygenMe
+- ELF x86 - KeygenMe
+- PE DotNet - Basic Anti-Debug
 
-## Crypto - 21/69
+## Crypto - 28/69
 
 - Encodage - ASCII
 - Encodage - UU
@@ -82,28 +97,43 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - Transposition - Rail Fence
 - Substitution monoalphabétique - Polybe
 - Problème du logarithme discret
+- RSA - Factorisation
+- Code - Pseudo Random Number Generator
+- Service - Timing Attack
+- Vecteur d'initialisation
+- AES - ECB
+- Service - CBC Padding
+- RSA - Modules communs
 
-## Forensic - 16/42
+## Forensic - 27/42
 
 - Fichier supprimé
+- Capture moi ça
 - Command & Control - niveau 2
+- MasterKee
 - Oh My Grub
 - Docker layers
 - Windows - LDAP User KerbeRoastable
 - Windows - NTDS Extraction de secrets
 - Analyse de logs - attaque web
 - Command & Control - niveau 5
+- Supply chain attack - Docker
 - Trouvez le chat
 - Vilain petit canard
 - Windows - LDAP User ASRepRoastable
 - Active Directory - GPO
 - Command & Control - niveau 3
+- Exfiltration DNS
 - Open My Vault
 - Command & Control - niveau 4
 - Entretien à l’ANSSI
 - Macro Word malveillante
 - Ransomware Android
 - Command & Control - niveau 6
+- Find Me
+- Second Entretien à l'ANSSI
+- Supply chain attack - Python
+- Keylogger maison
 
 ## Scripting - 9/25
 
@@ -117,12 +147,19 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - Multiples encodages
 - Quick Response Code
 
-## Realist - 2/59
+## Realist - 7/59
 
 - Eh oui, parfois
 - Root We
+- P0wn3d
+- Windows - Kerberoast
+- Windows - ASRepRoast
+- Windows - ZeroLogon
+- Windows - sAMAccountName
+- Windows - Group Policy Preferences Passwords
+- OpenClassrooms - Sécurité Active Directory
 
-## Networking - 17/33
+## Networking - 21/33
 
 - FTP - Authentification
 - TELNET - authentification
@@ -141,8 +178,12 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - ETHERNET - Transmission altérée
 - Trafic Global System for Mobile communications
 - SSL - échange HTTP
+- Charge ICMP
+- RF - AM Transmission
+- XMPP - Authentification
+- Extraction de données
 
-## Stegano - 14/23
+## Stegano - 18/23
 
 - EXIF - Metadata
 - Point à la ligne
@@ -162,7 +203,7 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - PNG - Pixel Value Differencing
 - Base Jumper
 
-## Web - Client - 19/41
+## Web - Client - 30/41
 
 - HTML - boutons désactivés
 - Javascript - Authentification
@@ -174,17 +215,28 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - Javascript - Webpack
 - Javascript - Obfuscation 3
 - XSS - Stockée 1
+- AST - Deobfuscation
 - CSP Bypass - Inline code
+- CSP Bypass - Nonce 2
 - CSRF - 0 protection
 - XSS DOM Based - Introduction
 - Flash - Authentification
 - XSS DOM Based - AngularJS
 - XSS DOM Based - Eval
+- CSP Bypass - Dangling markup
+- CSP Bypass - JSONP
 - CSRF - contournement de jeton
+- XSS - Volatile
+- CSP Bypass - Dangling markup 2
+- CSP Bypass - Nonce
 - Javascript - Obfuscation 4
 - XSS - Stockée 2
+- XSS DOM Based - Filters Bypass
+- DOM Clobbering
+- HTTP Response Splitting
+- XSS - Stored - Filter Bypass
 
-## Web-Server - 64/92
+## Web-Server - 80/92
 
 - HTML - Code source
 - HTTP - Contournement de filtrage IP
@@ -250,3 +302,20 @@ My Root Me profile: [Drachh](https://www.root-me.org/Drachh?inc=score&lang=en)
 - SQL injection - Time based
 - LDAP injection - En aveugle
 - SQL injection - Contournement de filtres
+- XPath injection - En aveugle
+- SQL injection - Insert
+- Local File Inclusion - Wrappers
+- SQL Injection - Routed
+- XML External Entity
+- PHP - Eval
+- SQL injection - Error
+- API - Broken Access 2
+- SQL injection - Blind
+- XPath Injection - Strings
+- PHP - Serialisation
+- Java - Spring Boot
+- Nginx - Alias Misconfiguration
+- Server Side Request Forgery
+- YAML - Deserialisation
+- PHP Unserialize Pop Chain
+- Nginx - Root Location Misconfiguration
