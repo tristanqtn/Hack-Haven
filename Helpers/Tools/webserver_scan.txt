@@ -1,0 +1,27 @@
+====================== WEBSERVER SCAN WIKI ====================== 
+
+ === Searching for every exposed URLS 
+ sudo dirb https://10.0.2.5   
+ 
+ === Burpsuite
+ 
+ 	=== BROWSER PROXY SETTINGS
+ 	
+ - Define the localhost as the current proxy in use 
+ 	
+ 	HTTP Proxy 127.0.0.1
+ 	Port 8080 / 8081
+ 	
+ 	SOCKS Host 127.0.0.1
+ 	Port 9050
+ 	
+ ATTENTION : once the proxy is set up in the browser every query will fail since the proxy used isn't proxy chained and finally connected
+ 
+ 	=== LAUNCHING PROXY 
+ 	
+ - Launch Brupsuite
+ - Go to the proxy panel 
+ - Click the button "intercept is off" => this will start the proxy capture of every query packets 	
+ 	
+  
+  
